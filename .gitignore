@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+.vscode/
+*.log
+.DS_Store
+# Database
+data/inventory.db
